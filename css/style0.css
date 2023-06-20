@@ -1,0 +1,23 @@
+body {
+  background-image: url('https://github.com/mysuruassociates/home/blob/de7e36bcd599c49c456ed62b660c0096858f71e9/img/under-construction-96dpi%20100kb.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+
+    h1 {color: Yellow;}
+    h2 {color: GreenYellow;}
+    h5 {color: GreenYellow;}
+    p {color: GreenYellow;}
+    p {font-size: 13px;}
+    p2 {color: White;}
+    body {background-color: Black;}
+    body {background-img: Black;}
+    footer {color: LightGreen;}
+    p3 {color: LightGreen;}
+    p3 {font-size: 12px;}
+    
+    .center {
+  padding: 70px 0;
+  border: 3px grey;
+  text-align: center;
+}
